@@ -1,8 +1,8 @@
 {
 "dynamic":"https://allsaroak.page.link",
   "showAdmob": false,
-  "banner": "ca-app-pub-3940256099942544/6300978111",
-  "interstitial": "ca-app-pub-3940256099942544/8691691433",
+  "banner": "ca-app-pub-5722545090844112/5186586066",
+  "interstitial": "ca-app-pub-5722545090844112/8035523953",
   "opengridserver": true,
   "gridserver": "https://raw.githubusercontent.com/PharaohMod/AllSarOak/main/gridserver.json"
 }
