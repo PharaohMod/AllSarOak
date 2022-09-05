@@ -1,6 +1,6 @@
 {
 "dynamic":"https://allsaroak.page.link",
-  "showAdmob": true,
+  "showAdmob": false,
   "banner": "ca-app-pub-5722545090844112/5186586066",
   "interstitial": "ca-app-pub-5722545090844112/8035523953",
   "opengridserver": true,
